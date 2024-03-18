@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align='center'>
-<img src="[[https://i.imgur.com/fKlwN90.png](https://imgur.com/a/IHnnbQu)](https://imgur.com/Fp5AGFl)"/>&nbsp;&nbsp;
+<img src="https://imgur.com/Fp5AGFl"/>&nbsp;&nbsp;
 </p>
 
 
