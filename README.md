@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @yugallakhyani11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 yugallakhyani11/yugallakhyani11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align='center'>
-<img src="[https://i.imgur.com/fKlwN90.png](https://imgur.com/a/IHnnbQu)"/>&nbsp;&nbsp;
+<img src="[[https://i.imgur.com/fKlwN90.png](https://imgur.com/a/IHnnbQu)](https://imgur.com/Fp5AGFl)"/>&nbsp;&nbsp;
 </p>
 
 
