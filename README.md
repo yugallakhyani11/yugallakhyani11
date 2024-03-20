@@ -83,7 +83,6 @@ Prior to my graduate journey at Northeastern, I worked as a Software Engineer fo
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yugallakhyani11&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=yugallakhyani11&langs_count=5&theme=buefy) 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugallakhyani11&show_icons=true&locale=en&layout=compact" alt="yugallakhyani11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugallakhyani11&show_icons=true&locale=en" alt="yugallakhyani11" /></p>
 
