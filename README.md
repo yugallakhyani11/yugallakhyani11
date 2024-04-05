@@ -56,7 +56,6 @@ Prior to my graduate journey at Northeastern, I worked as a Software Engineer fo
   
 <p align="center"> Data Engineering </p>
 <p align="center">
-  <img src = "https://img.shields.io/badge/Informatica%20Powercenter-FCC624?style=flat&logo=informatica&logoColor=white">
   <img src = "https://img.shields.io/badge/-Azure%20Data%20Factory-1572B6?style=flat&logo=azuredataexplorer&logoColor=white">
   <img src = "https://img.shields.io/badge/SQL%20Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/-Talend-eed718?style=flat&logo=talend&logoColor=ffffff">
@@ -69,7 +68,6 @@ Prior to my graduate journey at Northeastern, I worked as a Software Engineer fo
 
 <p align="center"> Cloud Technologies </p>
 <p align="center">
-  <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-4EAA25?style=flat&logo=amazonaws&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20Pipeline-3776AB?style=flat&logo=azurepipelines&logoColor=white">
   <img src = "https://img.shields.io/badge/Apache%20Kafka-557C94?style=flat&logo=apachekafka&logoColor=white">
